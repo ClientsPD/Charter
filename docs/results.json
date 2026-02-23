@@ -1,0 +1,135 @@
+{
+  "content": [
+    {
+      "customerId": 6,
+      "customerName": "Ben Shelton",
+      "monthlyRewards": {
+        "DECEMBER 2025": 254.09,
+        "JANUARY 2026": 34.45
+      },
+      "monthsTotal": "288.54",
+      "totalRewards": "1864.56"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Carlos Alcaraz",
+      "monthlyRewards": {
+        "DECEMBER 2025": 237.8,
+        "JANUARY 2026": 0
+      },
+      "monthsTotal": "237.8",
+      "totalRewards": "1306.43"
+    },
+    {
+      "customerId": 9,
+      "customerName": "Gauff",
+      "monthlyRewards": {
+        "DECEMBER 2025": 0,
+        "JANUARY 2026": 242.78,
+        "FEBRUARY 2026": 124
+      },
+      "monthsTotal": "366.78",
+      "totalRewards": "1289.07"
+    },
+    {
+      "customerId": 1,
+      "customerName": "Jannik Sinner",
+      "monthlyRewards": {
+        "DECEMBER 2025": 359.96,
+        "JANUARY 2026": 163.22,
+        "FEBRUARY 2026": 0
+      },
+      "monthsTotal": "523.18",
+      "totalRewards": "1386.67"
+    },
+    {
+      "customerId": 10,
+      "customerName": "Karolína",
+      "monthlyRewards": {
+        "DECEMBER 2025": 158.56,
+        "JANUARY 2026": 227.25,
+        "FEBRUARY 2026": 238.9
+      },
+      "monthsTotal": "624.71",
+      "totalRewards": "1141.9"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Novak Djokovic",
+      "monthlyRewards": {
+        "DECEMBER 2025": 266.51,
+        "JANUARY 2026": 120.34
+      },
+      "monthsTotal": "386.85",
+      "totalRewards": "765.89"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Rafael Nadal",
+      "monthlyRewards": {
+        "DECEMBER 2025": 207.73,
+        "JANUARY 2026": 154.6
+      },
+      "monthsTotal": "362.33",
+      "totalRewards": "1593.67"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Roger Federer",
+      "monthlyRewards": {
+        "DECEMBER 2025": 276.51,
+        "JANUARY 2026": 239.6,
+        "FEBRUARY 2026": 33.66
+      },
+      "monthsTotal": "549.77",
+      "totalRewards": "1582.31"
+    },
+    {
+      "customerId": 7,
+      "customerName": "Rybakina",
+      "monthlyRewards": {
+        "DECEMBER 2025": 23.37,
+        "JANUARY 2026": 218.01,
+        "FEBRUARY 2026": 214.12
+      },
+      "monthsTotal": "455.5",
+      "totalRewards": "1466.09"
+    },
+    {
+      "customerId": 8,
+      "customerName": "Swiatek",
+      "monthlyRewards": {
+        "DECEMBER 2025": 549.4,
+        "JANUARY 2026": 92.34,
+        "FEBRUARY 2026": 0
+      },
+      "monthsTotal": "641.74",
+      "totalRewards": "1078.01"
+    }
+  ],
+  "empty": false,
+  "first": true,
+  "last": true,
+  "number": 0,
+  "numberOfElements": 10,
+  "pageable": {
+    "offset": 0,
+    "pageNumber": 0,
+    "pageSize": 10,
+    "paged": true,
+    "sort": {
+      "empty": true,
+      "sorted": false,
+      "unsorted": true
+    },
+    "unpaged": false
+  },
+  "size": 10,
+  "sort": {
+    "empty": true,
+    "sorted": false,
+    "unsorted": true
+  },
+  "totalElements": 10,
+  "totalPages": 1
+}
